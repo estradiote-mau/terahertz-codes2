@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.venv/
+.env
+.data-tutorial/
+*.dat
+0-water-absortion/
+1-spot-estimation/
+2-GaAs-bulk/
+3-PbTe-thinfilm/
